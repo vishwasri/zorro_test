@@ -1,0 +1,1 @@
+const NO_DATA_FOUND_ERROR_TXT = "Error with data source";

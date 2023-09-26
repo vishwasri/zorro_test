@@ -1,0 +1,122 @@
+String empData = """[
+{
+"id": 1001,
+"imageUrl": "https://hub.dummyapis.com/Image?text=GS&height=120&width=120",
+"firstName": "Gabe",
+"lastName": "Schinner",
+"email": "Gabe.Schinner@dummyapis.com",
+"contactNumber": "4782490586",
+"age": 51,
+"dob": "02/08/1972",
+"salary": 1.0,
+"address": "Address1"
+},
+{
+"id": 1002,
+"imageUrl": "https://hub.dummyapis.com/Image?text=NF&height=120&width=120",
+"firstName": "Natasha",
+"lastName": "Funk",
+"email": "Natasha.Funk@dummyapis.com",
+"contactNumber": "4232994077",
+"age": 58,
+"dob": "15/04/1965",
+"salary": 2.0,
+"address": "Address2"
+},
+{
+"id": 1003,
+"imageUrl": "https://hub.dummyapis.com/Image?text=MS&height=120&width=120",
+"firstName": "Mittie",
+"lastName": "Schuster",
+"email": "Mittie.Schuster@dummyapis.com",
+"contactNumber": "4993892062",
+"age": 42,
+"dob": "25/08/1981",
+"salary": 3.0,
+"address": "Address3"
+},
+{
+"id": 1004,
+"imageUrl": "https://hub.dummyapis.com/Image?text=OC&height=120&width=120",
+"firstName": "Orin",
+"lastName": "Connelly",
+"email": "Orin.Connelly@dummyapis.com",
+"contactNumber": "4142395961",
+"age": 23,
+"dob": "23/12/2000",
+"salary": 4.0,
+"address": "Address4"
+},
+{
+"id": 1005,
+"imageUrl": "https://hub.dummyapis.com/Image?text=KR&height=120&width=120",
+"firstName": "Keara",
+"lastName": "Roob",
+"email": "Keara.Roob@dummyapis.com",
+"contactNumber": "4312995877",
+"age": 52,
+"dob": "25/02/1971",
+"salary": 5.0,
+"address": "Address5"
+},
+{
+"id": 1006,
+"imageUrl": "https://hub.dummyapis.com/Image?text=JC&height=120&width=120",
+"firstName": "Judy",
+"lastName": "Conroy",
+"email": "Judy.Conroy@dummyapis.com",
+"contactNumber": "4062691695",
+"age": 67,
+"dob": "11/04/1956",
+"salary": 6.0,
+"address": "Address6"
+},
+{
+"id": 1007,
+"imageUrl": "https://hub.dummyapis.com/Image?text=BK&height=120&width=120",
+"firstName": "Brando",
+"lastName": "Kuhlman",
+"email": "Brando.Kuhlman@dummyapis.com",
+"contactNumber": "4895690013",
+"age": 33,
+"dob": "21/11/1990",
+"salary": 7.0,
+"address": "Address7"
+},
+{
+"id": 1008,
+"imageUrl": "https://hub.dummyapis.com/Image?text=MC&height=120&width=120",
+"firstName": "Meredith",
+"lastName": "Crooks",
+"email": "Meredith.Crooks@dummyapis.com",
+"contactNumber": "4548099656",
+"age": 22,
+"dob": "12/05/2001",
+"salary": 8.0,
+"address": "Address8"
+},
+{
+"id": 1009,
+"imageUrl": "https://hub.dummyapis.com/Image?text=MS&height=120&width=120",
+"firstName": "Maci",
+"lastName": "Streich",
+"email": "Maci.Streich@dummyapis.com",
+"contactNumber": "4988795470",
+"age": 58,
+"dob": "20/11/1965",
+"salary": 9.0,
+"address": "Address9"
+},
+{
+"id": 1010,
+"imageUrl": "https://hub.dummyapis.com/Image?text=LB&height=120&width=120",
+"firstName": "Lynn",
+"lastName": "Braun",
+"email": "Lynn.Braun@dummyapis.com",
+"contactNumber": "4844295915",
+"age": 22,
+"dob": "10/03/2001",
+"salary": 10.0,
+"address": "Address10"
+}
+]""";
